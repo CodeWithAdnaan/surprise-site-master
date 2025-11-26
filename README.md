@@ -1,67 +1,71 @@
 # ✨ Surprise Site
 
-A cute little surprise built with love 💖  
-Sweet, simple, and made to bring a smile to someone special ✨ 
+A small, emotional, and beautifully crafted surprise — built with love by **CodeWithAdnaan** 💖
+
+Simple. Heartfelt. Made to make someone smile ✨
 
 ---
 
 ## 🛠 Tech Stack
 
-- ⚛️ **Next.js** – React Framework for building fast UI
-- 🎨 **Tailwind CSS** – For modern and responsive styling
-- 🎞️ **Motion** – Smooth entrance and fade animations
+* ⚛️ **Next.js** – Fast, modern React framework
+* 🎨 **Tailwind CSS** – Clean, responsive design
+* 🎞️ **Framer Motion / Motion** – Smooth animations for every moment
 
 ---
 
 ## 🖥 Local Setup
 
-To run this project locally, follow these steps:
+Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anuj579/surprise-site.git
+git clone https://github.com/CodeWithAdnaan/surprise-site-master.git
 
-# Navigate into the folder
-cd surprise-site
+# Navigate into the project folder
+cd surprise-site-master
 
 # Install dependencies
-pnpm install
+pnpm install   # or npm install / yarn install
 
-# Start the development server
-pnpm dev
+# Start development server
+pnpm dev       # or npm run dev
 ```
 
-Then open [http://localhost:3000](http://localhost:3000) in your browser to explore the site.
+Then open **[http://localhost:3000](http://localhost:3000)** in your browser.
 
 ---
 
-## 🔗 Social Media
+## 🌐 Social Media
 
-Follow me for more emotional surprise websites and creative dev content:
+Follow me for more creative projects and emotional surprise websites:
 
-- 📷 Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎬 YouTube: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
+* 📷 Instagram: **@codewithadnaan**
+* 🐦 Twitter: **@codewithadnaan**
+* 🎬 YouTube: **@codewithadnaan**
+* 💼 LinkedIn: **Adnan Farooq**
 
 ---
 
 ## ⭐ Support
 
-If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
-Thank you for being here! 🫶  
-Made with emotions by **Anuj** – _@anujbuilds_
-
-✨ If you'd like to support my work directly, you can donate via UPI:  
-**anujbuilds.wallet@phonepe**  
-Even a small contribution helps me keep creating cute, emotional projects 💖
+If you like this project, feel free to ⭐ star the repository — it means a lot!
 
 ---
 
 ## ⚠️ License & Usage
 
-### Free Code
-- This free version is strictly for **personal use only**.  
-- You **cannot** post, upload, or share this project online in any form (e.g., Instagram reels, YouTube videos, websites, or any public platform).  
-- Using this free code publicly is **prohibited**.
-- Any violation will be considered **copyright infringement**, and I reserve the right to report it.
+This project is created by **CodeWithAdnaan**.
+You may modify it for **personal use**.
+
+For public/commercial usage or uploads
+(Instagram / YouTube / TikTok / Websites),
+please take permission beforehand.
+
+Let's respect each other’s creativity 💖
+
+---
+
+### Made with emotions, effort, and a little bit of magic ✨
+
+— **Adnan (CodeWithAdnaan)**
