@@ -20,7 +20,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/CodeWithAdnaan/surprise-site-master.git
+git clone https://github.com/CodeWithAdnaan/surprise-site-master
 
 # Navigate into the project folder
 cd surprise-site-master
